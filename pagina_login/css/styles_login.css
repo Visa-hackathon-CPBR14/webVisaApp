@@ -1,0 +1,46 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  padding: 5%;
+  height: 110vh;
+}
+
+
+.cor-especial-botão {
+  background-color: #E72245;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+::-webkit-input-placeholder  { color:#006999 !important;
+  font-size: 18px;
+
+}
+
+
+.new-account {
+  color: #FFFFFF;
+}
+
+main {
+  gap: 30px;
+}
+
+.line {
+  height: 2px;
+  width: 80%;
+  background-color: #006999;
+
+}
+
+.acess-with {
+  color: #FFFFFF;
+}
+
+.social-media {
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.form-control{
+  border-radius: 20px !important;
+}

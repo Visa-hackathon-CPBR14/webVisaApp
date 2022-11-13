@@ -1,0 +1,62 @@
+body{
+    height: 100vh;
+}
+.bar{
+    height: 24px;
+    background-color: #444;
+}
+h1{
+        font-family: IBMPlexSans;
+        font-size: 24px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #fff;
+      
+}
+p#bar-text{
+    
+        font-family: Poppins;
+        font-size: 12px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #fff;
+        text-align: center;
+}
+
+p#secundary-text{
+
+    font-family: IBMPlexSans;
+    font-size: 24px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.83;
+    letter-spacing: normal;
+    text-align: center;
+    color: #d8d8d8;
+    
+}
+
+hr.solid {
+    border-top: 3px solid rgb(255, 255, 255);
+  }
+
+hr.solid#secundary{
+    border-top: 2px solid rgb(255, 255, 255);
+}
+
+.sub-menu {
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    
+  }
+.change-my-color{
+    filter: brightness(0) invert(1);
+    }
